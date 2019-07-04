@@ -1,5 +1,6 @@
 first line nae
 nae second line
+<<<<<<< HEAD
 
 line from task1
 <<<<<<< HEAD
@@ -7,3 +8,6 @@ line nae local after online modification
 =======
 another line nae but online
 >>>>>>> 49f6584ee44266ed556e54a3e9246564eaece9e7
+=======
+ wanna be happy??
+>>>>>>> 8e599504a91ea8b48cbef7ad8d7bac16b80e8a26
